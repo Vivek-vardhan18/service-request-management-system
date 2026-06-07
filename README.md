@@ -186,7 +186,7 @@ Add screenshots of:
 
 ## Author
 
-Vivek Vardhan
+Y Vivekananda Vardhan
 
 B.Tech Computer Science and Engineering
 
